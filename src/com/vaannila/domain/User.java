@@ -6,6 +6,7 @@ public class User {
 	private String password;
 	private String gender;
 	private String country;
+	private String age;
 	private String state;
 	private String aboutYou;
 	private String[] community;
